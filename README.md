@@ -33,6 +33,8 @@ Still learning, one plugin at a time.
 
 ### `~/stats`
 
+<img src="./assets/stats/time.svg" width="100%" alt="Total coding time and time per language" />
+
 <img src="./assets/stats/overview.svg" width="49%" alt="GitHub overview" />&nbsp;<img src="./assets/stats/languages.svg" width="49%" alt="Most used languages" />
 <img src="./assets/stats/activity.svg" width="49%" alt="Contribution activity" />&nbsp;<img src="./assets/stats/week.svg" width="49%" alt="Coding time last 7 days" />
 
