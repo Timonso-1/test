@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" fill="none" role="img" aria-labelledby="t">
+<title id="t">Most used languages: TypeScript 61.4%, Kotlin 20.0%, Python 15.3%, CSS 2.0%, Java 0.5%, JavaScript 0.3%, Other 0.5%</title>
+<style>
+  .h { font: 600 13px 'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace; fill: #FAFAFA; }
+  .r { font: 400 12px 'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace; fill: #71717A; }
+  .l { font: 400 11px 'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace; fill: #71717A; }
+  .v { font: 600 22px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #FAFAFA; }
+  .s { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #A1A1AA; }
+  .n { font: 600 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #FAFAFA; }
+  .a { animation: in .4s ease-out backwards; }
+  @keyframes in { from { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .a { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="399" height="199" rx="10" fill="#09090B" stroke="#27272A"/>
+<text x="24" y="34" class="h"><tspan fill="#71717A">~/stats/</tspan>languages</text>
+<text x="376" y="34" class="r" text-anchor="end">by code size</text>
+<line x1="24" y1="48" x2="376" y2="48" stroke="#27272A"/>
+<mask id="m"><rect x="24" y="66" width="352" height="10" rx="5" fill="white"/></mask><g mask="url(#m)"><rect x="24.00" y="66" width="214.23" height="10" fill="#FAFAFA"/><rect x="240.23" y="66" width="68.56" height="10" fill="#D4D4D8"/><rect x="310.79" y="66" width="51.87" height="10" fill="#A1A1AA"/><rect x="364.67" y="66" width="5.09" height="10" fill="#71717A"/><rect x="371.76" y="66" width="1.00" height="10" fill="#52525B"/><rect x="373.48" y="66" width="1.00" height="10" fill="#3F3F46"/><rect x="374.40" y="66" width="1.00" height="10" fill="#27272A"/></g><g class="a" style="animation-delay:0ms"><rect x="24" y="95" width="10" height="10" rx="2" fill="#FAFAFA" stroke="#3F3F46"/><text x="42" y="104" class="s">TypeScript</text><text x="184" y="104" class="n" text-anchor="end">61.4%</text></g><g class="a" style="animation-delay:70ms"><rect x="24" y="119" width="10" height="10" rx="2" fill="#D4D4D8" stroke="#3F3F46"/><text x="42" y="128" class="s">Kotlin</text><text x="184" y="128" class="n" text-anchor="end">20.0%</text></g><g class="a" style="animation-delay:140ms"><rect x="24" y="143" width="10" height="10" rx="2" fill="#A1A1AA" stroke="#3F3F46"/><text x="42" y="152" class="s">Python</text><text x="184" y="152" class="n" text-anchor="end">15.3%</text></g><g class="a" style="animation-delay:210ms"><rect x="24" y="167" width="10" height="10" rx="2" fill="#71717A" stroke="#3F3F46"/><text x="42" y="176" class="s">CSS</text><text x="184" y="176" class="n" text-anchor="end">2.0%</text></g><g class="a" style="animation-delay:280ms"><rect x="204" y="95" width="10" height="10" rx="2" fill="#52525B" stroke="#3F3F46"/><text x="222" y="104" class="s">Java</text><text x="364" y="104" class="n" text-anchor="end">0.5%</text></g><g class="a" style="animation-delay:350ms"><rect x="204" y="119" width="10" height="10" rx="2" fill="#3F3F46" stroke="#3F3F46"/><text x="222" y="128" class="s">JavaScript</text><text x="364" y="128" class="n" text-anchor="end">0.3%</text></g><g class="a" style="animation-delay:420ms"><rect x="204" y="143" width="10" height="10" rx="2" fill="#27272A" stroke="#3F3F46"/><text x="222" y="152" class="s">Other</text><text x="364" y="152" class="n" text-anchor="end">0.5%</text></g>
+</svg>
