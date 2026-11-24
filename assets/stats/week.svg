@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" fill="none" role="img" aria-labelledby="t">
+<title id="t">Coding time last 7 days (WakaTime): 2 h 5 min</title>
+<style>
+  .h { font: 600 13px 'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace; fill: #FAFAFA; }
+  .r { font: 400 12px 'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace; fill: #71717A; }
+  .l { font: 400 11px 'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace; fill: #71717A; }
+  .v { font: 600 22px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #FAFAFA; }
+  .s { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #A1A1AA; }
+  .n { font: 600 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #FAFAFA; }
+  .a { animation: in .4s ease-out backwards; }
+  @keyframes in { from { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .a { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="399" height="199" rx="10" fill="#09090B" stroke="#27272A"/>
+<text x="24" y="34" class="h"><tspan fill="#71717A">~/stats/</tspan>week</text>
+<text x="376" y="34" class="r" text-anchor="end">2h 5m total</text>
+<line x1="24" y1="48" x2="376" y2="48" stroke="#27272A"/>
+<g class="a" style="animation-delay:0ms"><rect x="35.1" y="89.8" width="28" height="70.2" rx="3" fill="#A1A1AA"/><text x="49.1" y="83.8" class="l" text-anchor="middle">0.7h</text><text x="49.1" y="180" class="l" text-anchor="middle">wed</text></g><g class="a" style="animation-delay:60ms"><rect x="85.4" y="118.4" width="28" height="41.6" rx="3" fill="#A1A1AA"/><text x="99.4" y="112.4" class="l" text-anchor="middle">0.4h</text><text x="99.4" y="180" class="l" text-anchor="middle">thu</text></g><g class="a" style="animation-delay:120ms"><rect x="135.7" y="158.0" width="28" height="2.0" rx="3" fill="#A1A1AA"/><text x="149.7" y="152.0" class="l" text-anchor="middle">0.0h</text><text x="149.7" y="180" class="l" text-anchor="middle">fri</text></g><g class="a" style="animation-delay:180ms"><rect x="186.0" y="158.0" width="28" height="2.0" rx="3" fill="#3F3F46"/><text x="200.0" y="152.0" class="l" text-anchor="middle">0.0h</text><text x="200.0" y="180" class="l" text-anchor="middle">sat</text></g><g class="a" style="animation-delay:240ms"><rect x="236.3" y="72.0" width="28" height="88.0" rx="3" fill="#FAFAFA"/><text x="250.3" y="66.0" class="l" text-anchor="middle">0.9h</text><text x="250.3" y="180" class="l" text-anchor="middle">sun</text></g><g class="a" style="animation-delay:300ms"><rect x="286.6" y="158.0" width="28" height="2.0" rx="3" fill="#3F3F46"/><text x="300.6" y="152.0" class="l" text-anchor="middle">0.0h</text><text x="300.6" y="180" class="l" text-anchor="middle">mon</text></g><g class="a" style="animation-delay:360ms"><rect x="336.9" y="158.0" width="28" height="2.0" rx="3" fill="#3F3F46"/><text x="350.9" y="152.0" class="l" text-anchor="middle">0.0h</text><text x="350.9" y="180" class="l" text-anchor="middle">tue</text></g>
+</svg>
