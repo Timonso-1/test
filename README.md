@@ -7,28 +7,19 @@ Still learning, one plugin at a time.
 
 <br />
 
-### `~/projects`
-
-| | |
-|---|---|
-| **[Timonso Labs](https://github.com/Timonso-1/TimonsoRepositorys)** | Portfolio page that lists my GitHub projects, organisations and activity. Next.js, React, Tailwind CSS. |
-| **[Brixo](https://github.com/Timonso-1/Brixo)** | A small learning language with German syntax: you program a robot that builds with bricks. Kotlin desktop IDE. |
-
-<br />
-
 ### `~/stack`
 
 `languages/`<br />
-<img src="https://skillicons.dev/icons?i=kotlin,java,ts,php,html,css&theme=dark&perline=12" alt="Kotlin, Java, TypeScript, PHP, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,html,css&theme=dark&perline=12" alt="Kotlin, Java, HTML, CSS" />
+
+`learning/`<br />
+<img src="https://skillicons.dev/icons?i=python,nextjs&theme=dark&perline=12" alt="Python, Next.js" />
 
 `ides/`<br />
 <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode&theme=dark&perline=12" alt="IntelliJ IDEA, Android Studio, VS Code" />
 
 `ai/`<br />
 <img src="./assets/ai.svg" height="48" alt="Claude, ChatGPT, GitHub Copilot" />
-
-`frameworks/`<br />
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,laravel,tauri&theme=dark&perline=12" alt="Next.js, React, Tailwind CSS, Laravel, Tauri" />
 
 `build-and-deploy/`<br />
 <img src="https://skillicons.dev/icons?i=gradle,mysql,githubactions,cloudflare,vercel&theme=dark&perline=12" alt="Gradle, MySQL, GitHub Actions, Cloudflare, Vercel" />
