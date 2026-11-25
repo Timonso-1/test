@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" fill="none" role="img" aria-labelledby="t">
+<title id="t">Personal records: best coding day 11.2 h 15.10.26, longest streak 9 d, most in a day 56 12.10.26, busiest weekday mon, active days 166, first activity 11.09.24</title>
+<style>
+  .h { font: 600 13px 'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace; fill: #FAFAFA; }
+  .r { font: 400 12px 'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace; fill: #71717A; }
+  .l { font: 400 11px 'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace; fill: #71717A; }
+  .v { font: 600 22px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #FAFAFA; }
+  .s { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #A1A1AA; }
+  .n { font: 600 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #FAFAFA; }
+  .a { animation: in .4s ease-out backwards; }
+  .c { animation: blink 1.1s steps(1) infinite; }
+  @keyframes in { from { opacity: 0; } }
+  @keyframes blink { 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .a, .c { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="399" height="199" rx="10" fill="#09090B" stroke="#27272A"/>
+<text x="24" y="34" class="h"><tspan fill="#71717A">~/stats/</tspan>records</text>
+<rect x="144.0" y="24" width="7" height="13" fill="#FAFAFA" class="c"/>
+<text x="376" y="34" class="r" text-anchor="end">personal bests</text>
+<line x1="24" y1="48" x2="376" y2="48" stroke="#3F3F46" stroke-dasharray="2 4"/>
+<g class="a" style="animation-delay:0ms"><text x="24" y="82" class="l">best coding day</text><text x="24" y="110" class="v" style="font-size:22px">11.2 h<tspan class="l" dx="6">15.10.26</tspan></text></g><g class="a" style="animation-delay:80ms"><text x="146" y="82" class="l">longest streak</text><text x="146" y="110" class="v" style="font-size:22px">9 d</text></g><g class="a" style="animation-delay:160ms"><text x="268" y="82" class="l">most in a day</text><text x="268" y="110" class="v" style="font-size:22px">56<tspan class="l" dx="6">12.10.26</tspan></text></g><g class="a" style="animation-delay:240ms"><text x="24" y="146" class="l">busiest weekday</text><text x="24" y="174" class="v" style="font-size:22px">mon</text></g><g class="a" style="animation-delay:320ms"><text x="146" y="146" class="l">active days</text><text x="146" y="174" class="v" style="font-size:22px">166</text></g><g class="a" style="animation-delay:400ms"><text x="268" y="146" class="l">first activity</text><text x="268" y="174" class="v" style="font-size:17px">11.09.24</text></g>
+</svg>
