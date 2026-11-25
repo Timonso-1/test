@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" fill="none" role="img" aria-labelledby="t">
-<title id="t">Timonso. Developer from Germany: Minecraft plugins, web apps, Android apps and self-hosting. 736 h coding · 2 day streak. Learning python, next.js.</title>
+<title id="t">Timonso. Developer from Germany: Minecraft plugins, Kotlin, Android apps and self-hosting. 736 h coding · 2 day streak. Learning python, next.js.</title>
 <style>
   .name { font: 700 46px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #FAFAFA; letter-spacing: -1px; }
   .sub  { font: 400 17px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #A1A1AA; }
@@ -17,13 +17,13 @@
 <text x="44" y="86" class="name">Timonso</text>
 <rect x="46" y="104" width="40" height="3" rx="1.5" fill="#FAFAFA"/>
 <text x="44" y="140" class="sub">Developer from Germany.</text>
-<text x="44" y="164" class="sub">Minecraft plugins, web apps and side projects.</text>
-<g transform="translate(44,184)"><rect x="0" width="150" height="24" rx="12" stroke="#3F3F46"/><text x="75.0" y="16" class="tag" text-anchor="middle">minecraft plugins</text><rect x="158" width="84" height="24" rx="12" stroke="#3F3F46"/><text x="200.0" y="16" class="tag" text-anchor="middle">web apps</text><rect x="250" width="77" height="24" rx="12" stroke="#3F3F46"/><text x="288.5" y="16" class="tag" text-anchor="middle">android</text><rect x="335" width="113" height="24" rx="12" stroke="#3F3F46"/><text x="391.5" y="16" class="tag" text-anchor="middle">self-hosting</text></g>
+<text x="44" y="164" class="sub">Minecraft plugins and side projects.</text>
+<g transform="translate(44,184)"><rect x="0" width="150" height="24" rx="12" stroke="#3F3F46"/><text x="75.0" y="16" class="tag" text-anchor="middle">minecraft plugins</text><rect x="158" width="69" height="24" rx="12" stroke="#3F3F46"/><text x="192.5" y="16" class="tag" text-anchor="middle">kotlin</text><rect x="235" width="77" height="24" rx="12" stroke="#3F3F46"/><text x="273.5" y="16" class="tag" text-anchor="middle">android</text><rect x="320" width="113" height="24" rx="12" stroke="#3F3F46"/><text x="376.5" y="16" class="tag" text-anchor="middle">self-hosting</text></g>
 <g transform="translate(560,18)">
   <rect x="0.5" y="0.5" width="399" height="193" rx="8" fill="#0F0F12" stroke="#27272A"/>
   <line x1="0.5" y1="30.5" x2="399.5" y2="30.5" stroke="#27272A"/>
   <circle cx="18" cy="15.5" r="5" fill="#3F3F46"/><circle cx="34" cy="15.5" r="5" fill="#3F3F46"/><circle cx="50" cy="15.5" r="5" fill="#3F3F46"/>
   <text x="200" y="20" class="mono dim" text-anchor="middle">timonso@dev ~</text>
-  <text x="18" y="56" class="mono line" style="animation-delay:0.20s"><tspan class="dim">$</tspan> <tspan class="hi">whoami</tspan></text><text x="18" y="74" class="mono line" style="animation-delay:0.45s"><tspan class="">timonso · minecraft &amp; web developer</tspan></text><text x="18" y="96" class="mono line" style="animation-delay:0.70s"><tspan class="dim">$</tspan> <tspan class="hi">uptime</tspan></text><text x="18" y="114" class="mono line" style="animation-delay:0.95s"><tspan class="">736 h coding · 2 d streak</tspan></text><text x="18" y="136" class="mono line" style="animation-delay:1.20s"><tspan class="dim">$</tspan> <tspan class="hi">cat learning.txt</tspan></text><text x="18" y="154" class="mono line" style="animation-delay:1.45s"><tspan class="">python, next.js</tspan></text><text x="18" y="176" class="mono line" style="animation-delay:1.70s"><tspan class="dim">$</tspan></text><rect x="34" y="166" width="8" height="15" fill="#FAFAFA" class="cur"/>
+  <text x="18" y="56" class="mono line" style="animation-delay:0.20s"><tspan class="dim">$</tspan> <tspan class="hi">whoami</tspan></text><text x="18" y="74" class="mono line" style="animation-delay:0.45s"><tspan class="">timonso · minecraft plugin developer</tspan></text><text x="18" y="96" class="mono line" style="animation-delay:0.70s"><tspan class="dim">$</tspan> <tspan class="hi">uptime</tspan></text><text x="18" y="114" class="mono line" style="animation-delay:0.95s"><tspan class="">736 h coding · 2 d streak</tspan></text><text x="18" y="136" class="mono line" style="animation-delay:1.20s"><tspan class="dim">$</tspan> <tspan class="hi">cat learning.txt</tspan></text><text x="18" y="154" class="mono line" style="animation-delay:1.45s"><tspan class="">python, next.js</tspan></text><text x="18" y="176" class="mono line" style="animation-delay:1.70s"><tspan class="dim">$</tspan></text><rect x="34" y="166" width="8" height="15" fill="#FAFAFA" class="cur"/>
 </g>
 </svg>
