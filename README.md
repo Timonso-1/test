@@ -7,12 +7,6 @@ Still learning, one plugin at a time.
 
 <br />
 
-### `~/contact`
-
-[![Email](https://img.shields.io/badge/management@timonso.de-09090B?style=flat-square&logo=gmail&logoColor=white)](mailto:management@timonso.de)
-
-<br />
-
 ### `~/stack`
 
 `languages/`<br />
