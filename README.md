@@ -1,9 +1,15 @@
-<img src="./assets/header.svg" width="100%" alt="Timonso: Minecraft plugin developer from Germany, building Paper and Velocity plugins in Kotlin" />
+<img src="./assets/stats/header.svg" width="100%" alt="Timonso: developer from Germany, Minecraft plugins and side projects" />
 
 <br />
 
 I build Minecraft plugins for Paper and Velocity, mostly in Kotlin on top of the Surf-API.
 Still learning, one plugin at a time.
+
+<br />
+
+### `~/contact`
+
+[![Email](https://img.shields.io/badge/management@timonso.de-09090B?style=flat-square&logo=gmail&logoColor=white)](mailto:management@timonso.de)
 
 <br />
 
@@ -40,8 +46,3 @@ Still learning, one plugin at a time.
 <img src="./assets/stats/rhythm.svg" width="49%" alt="Commits by hour of day" />&nbsp;<img src="./assets/stats/records.svg" width="49%" alt="Personal records" />
 <img src="./assets/stats/milestone.svg" width="49%" alt="Next coding hours milestone" />&nbsp;<img src="./assets/stats/setup.svg" width="49%" alt="Editors and operating systems" />
 
-<br />
-
-### `~/contact`
-
-[![Email](https://img.shields.io/badge/management@timonso.de-09090B?style=flat-square&logo=gmail&logoColor=white)](mailto:management@timonso.de)
