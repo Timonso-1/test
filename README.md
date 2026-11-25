@@ -37,6 +37,8 @@ Still learning, one plugin at a time.
 
 <img src="./assets/stats/overview.svg" width="49%" alt="GitHub overview" />&nbsp;<img src="./assets/stats/languages.svg" width="49%" alt="Most used languages" />
 <img src="./assets/stats/activity.svg" width="49%" alt="Contribution activity" />&nbsp;<img src="./assets/stats/week.svg" width="49%" alt="Coding time last 7 days" />
+<img src="./assets/stats/rhythm.svg" width="49%" alt="Commits by hour of day" />&nbsp;<img src="./assets/stats/records.svg" width="49%" alt="Personal records" />
+<img src="./assets/stats/milestone.svg" width="49%" alt="Next coding hours milestone" />&nbsp;<img src="./assets/stats/setup.svg" width="49%" alt="Editors and operating systems" />
 
 <br />
 
